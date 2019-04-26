@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "Articles"
     url: /posts/
   - title: "Categories"
     url: /categories/
@@ -8,6 +8,7 @@ main:
   - title: "About"
     url: /about/
 
+# Sample sidebar
 sidebar-sample:
   - title: "Parent Page A"
     children:
@@ -48,4 +49,29 @@ sidebar-sample:
       - title: "Child Page D1"
         url: /
       - title: "Child Page D2"
+        url: /
+
+# Posts sidebar:
+sidebar-posts:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
         url: /
