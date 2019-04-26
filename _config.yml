@@ -21,7 +21,7 @@ baseurl: /symbiota-mgmt-training
 url: https://arbolitoloco.github.io
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: defa
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
