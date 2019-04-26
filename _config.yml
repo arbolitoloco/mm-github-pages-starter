@@ -115,3 +115,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
