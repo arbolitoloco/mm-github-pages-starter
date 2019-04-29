@@ -53,13 +53,13 @@ sidebar-sample:
 
 # Articles sidebar:
 articles:
-  - title: Symbiota Fundamentals
+  - title: "Symbiota Fundamentals"
     children:
       - title: "What is Symbiota?"
         url: /
       - title: "UW Portal Specifics"
         url: /
-  - title: Symbiota Management
+  - title: "Symbiota Management"
     children:
       - title: "Admin roles"
         url: /
@@ -69,13 +69,13 @@ articles:
         url: /
       - title: "Bug tracking and reporting"
         url: /
-  - title: Data Quality
+  - title: "Data Quality"
     children:
       - title: "Data interoperability"
         url: /
       - title: "Data cleaning before importing"
         url: /
-  - title: Databases
+  - title: "Databases"
     children:
       - title: "Relational databases"
         url: /
