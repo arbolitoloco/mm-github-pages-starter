@@ -131,3 +131,9 @@ tag_archive:
 sidebar:
   title: "Articles"
   nav: sidebar-articles
+
+  # Collections
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
