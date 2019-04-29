@@ -1,4 +1,4 @@
-main:
+  main:
   - title: "Articles"
     url: /posts/
   - title: "Categories"
@@ -53,25 +53,35 @@ sidebar-sample:
 
 # Posts sidebar:
 sidebar-posts:
-  - title: "Parent Page A"
+  - title: "Symbiota Fundamentals"
     children:
-      - title: "Child Page A1"
+      - title: "What is Symbiota?"
         url: /
-      - title: "Child Page A2"
+      - title: "UW Portal Specifics"
         url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
+  - title: "Symbiota Management"
     children:
-      - title: "Child Page B1"
+      - title: "Admin roles"
         url: /
-      - title: "Child Page B2"
+      - title: "Collection profiles and tools"
         url: /
-      - title: "Child Page B3"
+      - title: "Importing and updating specimens"
         url: /
-      - title: "Child Page B4"
+      - title: "Bug tracking and reporting"
         url: /
-      - title: "Child Page B5"
+  - title: "Data Quality"
+    children:
+      - title: "Data interoperability"
+        url: /
+      - title: "Data cleaning before importing"
+        url: /
+  - title: "Databases"
+    children:
+      - title: "Relational databases"
+        url: /
+      - title: "Symbiota schema basics"
+        url: /
+      - title: "Rudiments of SQL and MySQL Workbench"
+        url: /
+      - title: "Backups"
         url: /
