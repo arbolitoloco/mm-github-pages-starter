@@ -111,14 +111,14 @@ defaults:
       path: "_articles"
       type: articles
     values:
-      sidebar:
-        nav:  "sidebar-articles"
       layout: single
       author_profile: false
       read_time: true
       comments: false
       share: true
       related: false
+      sidebar:
+        nav: "sidebar-articles"      
 
 category_archive:
   type: liquid
@@ -126,11 +126,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Different sidebars for content (define in _data/navigation.yml) 
-sidebar:
-  title: "Articles"
-  nav: sidebar-articles
 
   # Collections
 collections:
