@@ -120,7 +120,7 @@ defaults:
       share: true
       related: false
       sidebar:
-        nav: "articles"     
+        nav: articles
 
 category_archive:
   type: liquid
