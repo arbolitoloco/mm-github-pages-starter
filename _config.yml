@@ -118,7 +118,7 @@ defaults:
       share: true
       related: false
       sidebar:
-        nav: "sidebar-articles"      
+        nav: "articles"      
 
 category_archive:
   type: liquid
