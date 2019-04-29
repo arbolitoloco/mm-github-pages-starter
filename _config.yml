@@ -93,8 +93,6 @@ defaults:
       path: ""
       type: posts
     values:
-      sidebar:
-        nav: "sidebar-posts"
       layout: single
       author_profile: false
       read_time: true
@@ -131,5 +129,5 @@ tag_archive:
 
 # Different sidebars for content (define in _data/navigation.yml) 
 sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
+  title: "Articles"
+  nav: sidebar-articles
