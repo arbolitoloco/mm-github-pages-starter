@@ -99,8 +99,6 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar:
-        nav: "articles"
   # _pages
   - scope:
       path: "_pages"

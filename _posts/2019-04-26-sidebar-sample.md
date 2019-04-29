@@ -3,8 +3,8 @@ title: "Layout: Sidebar with Navigation List"
 excerpt: "A post with a sidebar navigation list."
 author_profile: false
 sidebar:
-  title: "Articles"
-  nav: articles
+  title: "Sidebar Sample"
+  nav: sidebar-sample
 ---
 
 This post has a custom navigation list set in the post's YAML Front Matter.
