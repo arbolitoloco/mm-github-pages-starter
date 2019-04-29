@@ -51,8 +51,8 @@ sidebar-sample:
       - title: "Child Page D2"
         url: /
 
-# Posts sidebar:
-sidebar-posts:
+# Articles sidebar:
+sidebar-articles:
   - title: "Symbiota Fundamentals"
     children:
       - title: "What is Symbiota?"
