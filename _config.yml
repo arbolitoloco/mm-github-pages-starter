@@ -2,8 +2,8 @@ title: Symbiota Biodiversity Portal Management Training
 baseurl: "/symbiota-mgmt-training/"
 url: "https://arbolitoloco.github.io/symbiota-mgmt-training/"
 
-# Jekyll theme: Just the Docs
-remote_theme: pmarsceill/just-the-docs
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Enable or disable the site search
 search_enabled: true
@@ -12,6 +12,9 @@ search_enabled: true
 aux_links:
     "View these files on GitHub":
       - "//github.com/arbolitoloco/symbiota-mgmt-training/"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
