@@ -6,12 +6,14 @@ description: "Home"
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Symbiota Biodiversity Portal Management Training
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+A primer to anyone intending to manage Biodiversity data using the Symbiota framework.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Start here](https://arbolitoloco.github.io/symbiota-mgmt-training/docs/symbiota-fundamentals){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
+
+These documents were written originally to aid the training of Symbiota portal managers within the University of Wisconsin-Madison's unified specimen portal.
