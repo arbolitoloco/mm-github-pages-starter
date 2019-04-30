@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Example
 nav_order: 2
 ---
 
-# Configuration
+# Example
 {: .no_toc }
 
 
