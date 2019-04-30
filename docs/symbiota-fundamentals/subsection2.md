@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Subsection 1
-parent: Section 1
-nav_order: 1
+title: Subsection 2
+parent: Symbiota Fundamentals
+nav_order: 2
 ---
 
 # Typography
-{: .no_toc }
+
 
 ## Table of contents
 {: .no_toc .text-delta }

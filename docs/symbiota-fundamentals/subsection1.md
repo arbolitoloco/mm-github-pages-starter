@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Subsection 2
-parent: Section 1
-nav_order: 2
+title: Subsection 1
+parent: Symbiota Fundamentals
+nav_order: 1
 ---
 
 # Typography
