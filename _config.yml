@@ -1,6 +1,6 @@
 title: Symbiota Biodiversity Portal Management Training
 baseurl: "/symbiota-mgmt-training/"
-url: "https://arbolitoloco.github.io/symbiota-mgmt-training/"
+url: "https://arbolitoloco.github.io/symbiota-mgmt-training"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
