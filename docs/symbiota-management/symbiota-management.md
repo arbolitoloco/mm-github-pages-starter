@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Symbiota Fundamentals
-nav_order: 2
+title: Symbiota Management
+nav_order: 3
 ---
 
-# Symbiota Fundamentals
+# Symbiota Management
 {: .no_toc }
 
 
