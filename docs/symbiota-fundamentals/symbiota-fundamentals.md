@@ -10,5 +10,3 @@ permalink: /docs/symbiota-fundamentals
 
 Learn about the Symbiota framework and how it can be used to create Biodiversity Portals.
 {: .fs-6 .fw-300 }
-
----
