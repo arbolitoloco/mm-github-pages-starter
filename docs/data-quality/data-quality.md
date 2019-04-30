@@ -10,5 +10,3 @@ permalink: /docs/data-quality
 
 Find out how to ensure that your Biodiversity data follows the appropriate data standards.
 {: .fs-6 .fw-300 }
-
----

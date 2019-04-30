@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Subsection 1
+title: What is Symbiota?
 parent: Symbiota Fundamentals
 nav_order: 1
 ---
 
-# Typography
+# What is Symbiota?
 {: .no_toc }
 
 ## Table of contents
@@ -16,10 +16,9 @@ nav_order: 1
 
 ---
 
-## Font stack
+## Definition
 
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
+## What can it do?
 
-```scss
--apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
-```
+## What can't it do?
+
