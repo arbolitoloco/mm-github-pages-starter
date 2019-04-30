@@ -12,4 +12,4 @@ sidebar:
     text: "More text here."
 ---
 
-To put it simply, Symbiota is an open source content management system for curating specimen- and observation-based biodiversity data. 
+To put it simply, Symbiota is an open source content management system for curating specimen- and observation-based biodiversity data.  
