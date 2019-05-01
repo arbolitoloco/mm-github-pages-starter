@@ -2,6 +2,8 @@
 layout: default
 title: Symbiota Management
 nav_order: 3
+has_children: true
+permalink: /docs/symbiota-management
 ---
 
 # Symbiota Management
