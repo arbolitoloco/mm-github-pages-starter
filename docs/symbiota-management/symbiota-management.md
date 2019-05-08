@@ -8,5 +8,5 @@ permalink: /docs/symbiota-management
 
 # Symbiota Management
 
-Learn about the Symbiota framework and how it can be used to create Biodiversity Portals.
+There are many responsibilities associated with the role of a portal admin. This section reviews what those are and offers instructions on how to use the most common tools.
 {: .fs-6 .fw-300 }
