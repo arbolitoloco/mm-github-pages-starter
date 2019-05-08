@@ -45,4 +45,23 @@ A brief list of code that has been customized in the back- and front-end:
 - Vernacular names support in Quick Search
 - UW-Madison CSS styles
 - Responsive styles
-- Additional pages 
+- Additional pages
+
+## Interface
+
+The UW portal has been extensively customized, to adhere to the University's design guidelines, improve usability, implement responsiveness to different screen sizes, and to promote accessibility.
+
+However, the main structure of Symbiota has, in general, not been altered. Because the portal was developed to be an unified screenshot of several different databases, specimens and taxa are not being actively maintained through this interface. This means that administration tools that are useful in that portal are reduced to a few essentials. To simplify admin navigation, those tools have been collected in an extra page, available only for logged-in users, called "Site Tools". You should find those tools right next to the regular "Sitemap" link on the admin bar.
+
+To change the content within the additional pages, please find the following archives:
+
+- header.php (Header with menus)
+- index.php (Home page)
+- about.php (Footer)
+- help.php (How to use this portal)
+- map-search-info.php (Map search instructions)
+- museums.php (Museums & Collections)
+- sitetools.php (Admin Tools)
+- trees.php (Biological and Non-biological trees)
+
+The additional pages include disclaimers, general information, and guidance for users. As an admin, it is also your responsibility to change/update the content in those pages as necessary.
